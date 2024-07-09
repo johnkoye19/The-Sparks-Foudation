@@ -1,0 +1,31 @@
+index,Region,State,Profit
+0,Central,Illinois,-19501.697500000002
+1,Central,Indiana,0.0
+2,Central,Michigan,0.0
+3,Central,Minnesota,0.0
+4,Central,Texas,-36813.1875
+5,East,Connecticut,-19.6146
+6,East,Delaware,-85.8963
+7,East,Maryland,-71.117
+8,East,Massachusetts,-566.2617
+9,East,New Hampshire,-105.3164
+10,East,New Jersey,-51.2906
+11,East,New York,-5031.1377999999995
+12,East,Ohio,-21750.0002
+13,East,Pennsylvania,-21602.8515
+14,East,Rhode Island,-230.1678
+15,East,West Virginia,-76.9536
+16,South,Alabama,0.0
+17,South,Florida,-8689.8295
+18,South,Kentucky,0.0
+19,South,Mississippi,0.0
+20,South,North Carolina,-11557.9854
+21,South,Tennessee,-7257.0174
+22,South,Virginia,0.0
+23,West,Arizona,-6656.7675
+24,West,California,-3769.6651
+25,West,Colorado,-8900.9048
+26,West,Nevada,-109.5822
+27,West,New Mexico,-5.6943
+28,West,Oregon,-2890.4764
+29,West,Washington,-387.8706
